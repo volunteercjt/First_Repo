@@ -1,2 +1,6 @@
 # First_Repo
-First Repository for Coursera
+
+## Testing out the editing process
+
+First Repository for Coursera.
+This is a markdown file.
